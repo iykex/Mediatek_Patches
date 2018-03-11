@@ -4,9 +4,9 @@
 Nougat Patches Needed To Be Applied On Source For 7.x To Work on MediaTek
 
 > ### Note : 
-	``` 
-	/manufacturer/codename - must be edited to suite your device tree!
-        ```	
+	 
+           > device/manufacturer/codename - must be edited to suite your device tree!
+        	
  
 example : for `Moto E4`  ```device/motorola/woods``` 
 
