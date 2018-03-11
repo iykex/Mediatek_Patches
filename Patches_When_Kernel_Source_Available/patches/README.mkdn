@@ -1,5 +1,5 @@
 # Mediatek Android Patches
-Nougat Patches Needed To Be Applied On Source For 7.x To Work on MediaTek
+Oreo Patches Needed To Be Applied On Source For 8.x To Work on MediaTek
 
 ### Note : 
 	```device/manufacturer/codename``` - must be edited to suite your device tree 
