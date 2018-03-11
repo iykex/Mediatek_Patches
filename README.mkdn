@@ -1,0 +1,35 @@
+[![mtk.png](https://s26.postimg.org/yszizgcex/mtk.png)](https://postimg.org/image/e8up0ywnp/)
+
+# Mediatek Android Patches
+Nougat Patches Needed To Be Applied On Source For 7.x To Work on MediaTek
+
+> ### Note : 
+	```device/manufacturer/codename``` - must be edited to suite your device tree 
+ 
+example : for `Moto E4`  ```device/motorola/woods``` 
+
+
+> ### Credit :
+- @darklord4822
+- @Zormax
+- @olegsvs
+- @MediatekAndroidDevelopers
+- @iykequame
+- @Mysteryagr
+- @CarlosArriagaCM
+- @SamarV-121
+- @ashwinr64
+- @mohancm
+- @IacobIonut01
+- @ganeshi4u
+- @kubersharma001
+- @adeveloper79
+- @igor1144
+- @Decker
+- @danielhk
+- @mdeejay
+- and more people 
+***
+: credit will be updated when the appropriate names comes to my notice, else make a PR .
+
+Thanks.
